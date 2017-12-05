@@ -1,0 +1,15 @@
+---------- Date: 2017-11-27 14:27:59 ~ IP : 91.228.58.224 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&token=BXNQThw4lfbSHRdIcxrLTjnvX2kLWr5n&target=input-image&thumb=thumb-image
+MOD DETAILS:
+   modFile   : /var/www/brainme/data/www/dev2.brainme.org/vqmod/xml/admin_ckeditor_2_2.xml
+   id        : adminckeditor
+   version   : 1.0
+   vqmver    : 2.5.0
+   author    : Richard Vošický
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $url .= '&thumb=' . $this->request->get['thumb'];
+
+----------------------------------------------------------------------
+
+

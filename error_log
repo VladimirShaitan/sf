@@ -1,0 +1,21 @@
+[26-Sep-2017 08:32:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/product/product.tpl on line 62
+[26-Sep-2017 08:32:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/product/product.tpl on line 62
+[26-Sep-2017 08:32:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/product/product.tpl on line 62
+[26-Sep-2017 08:34:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/product/product.tpl on line 62
+[26-Sep-2017 08:35:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/product/product.tpl on line 62
+[26-Sep-2017 09:23:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/product/product.php on line 285
+[26-Sep-2017 09:23:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/product/product.php on line 285
+[26-Sep-2017 09:24:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/product/product.php on line 302
+[26-Sep-2017 09:24:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/product/product.php on line 302
+[13-Oct-2017 09:38:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:38:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 149
+[13-Oct-2017 09:46:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/npowe150/shop.html-studio.com.ua/catalog/controller/common/header.php on line 151
+[13-Oct-2017 10:05:56 UTC] PHP Fatal error:  Class 'Controllercommonheader' not found in /home/npowe150/shop.html-studio.com.ua/system/storage/modification/system/engine/action.php on line 36
+[13-Oct-2017 10:58:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/common/header.tpl on line 234
+[13-Oct-2017 10:58:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/common/header.tpl on line 234
+[13-Oct-2017 10:58:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/npowe150/shop.html-studio.com.ua/catalog/view/theme/OPC021/template/common/header.tpl on line 234

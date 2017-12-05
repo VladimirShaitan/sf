@@ -1,0 +1,24 @@
+[24-Oct-2017 09:38:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Unknown column 'description' in 'field list'<br />Error No: 1054<br />
+							INSERT INTO
+								oc_manufacturer_smp
+							SET
+								manufacturer_id = '5',
+								language_id = '1',
+								description = '',
+								description_ag = '0',
+								meta_keyword = NULL,
+								meta_keyword_ag = '0',
+								meta_description = NULL,
+								meta_title = NULL,
+								meta_title_ag = '0',
+								smp_h1_title = NULL,
+								smp_h1_title_ag = '0',
+								tag = '',
+								tag_ag = '0',
+								name = 'HTC',
+								url_alias_exists = '0'
+						' in /home/npowe150/shop.html-studio.com.ua/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/npowe150/shop.html-studio.com.ua/system/library/db.php(16): DB\MySQLi->query('\n\t\t\t\t\t\t\tINSERT ...', Array)
+#1 /home/npowe150/shop.html-studio.com.ua/system/library/smk/extensions/seo_urls_generator.php(744): DB->query('\n\t\t\t\t\t\t\tINSERT ...')
+#2 /home/npowe150/shop.html-studio.com.ua/admin/controller/module/se in /home/npowe150/shop.html-studio.com.ua/system/library/db/mysqli.php on line 40
